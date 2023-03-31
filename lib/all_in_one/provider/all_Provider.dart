@@ -12,6 +12,10 @@ class App_provider extends ChangeNotifier {
   }
 
   List logoList = [
+    "assets/images/wiki.jpg",
+    "assets/images/w3school.jpg",
+    "assets/images/java.jpg",
+    "assets/images/tutorial.jpg",
     "assets/images/Akash.png",
     "assets/images/byjus.png",
     "assets/images/diksha.png",
@@ -24,6 +28,10 @@ class App_provider extends ChangeNotifier {
   ];
 
   List linkList = [
+    "https://www.wikipedia.org/",
+    "https://www.w3schools.com/",
+    "https://www.javatpoint.com/",
+    "https://www.tutorialspoint.com/",
     "https://www.aakash.ac.in/",
     "https://byjus.com/",
     "https://diksha.gov.in/",
